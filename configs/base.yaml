@@ -1,0 +1,6 @@
+data:
+  ticker: AAPL
+  start_date: "2015-01-01"
+  end_date: "2025-01-01"
+  interval: id
+  output_path: "data/raw/market_data.csv"
